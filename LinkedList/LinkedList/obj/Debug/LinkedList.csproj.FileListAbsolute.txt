@@ -1,0 +1,6 @@
+C:\Users\Jason Moon\source\repos\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Jason Moon\source\repos\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Jason Moon\source\repos\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Jason Moon\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+C:\Users\Jason Moon\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Jason Moon\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
